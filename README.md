@@ -1,78 +1,70 @@
-# 🚀 SaaS Analytics Dashboard
+# Getting Started with Create React App
 
-A professional, modern analytics dashboard built with React for SaaS businesses. Features real-time data visualization, customer management, and comprehensive analytics tools.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## ✨ Features
+## Available Scripts
 
-- **📊 Real-time Analytics** - Interactive charts and KPI tracking
-- **👥 Customer Management** - Complete CRUD operations with advanced filtering
-- **📱 Responsive Design** - Optimized for desktop, tablet, and mobile
-- **🎨 Modern UI/UX** - Clean, professional interface with Tailwind CSS
-- **⚡ Performance** - Optimized React components and efficient rendering
+In the project directory, you can run:
 
-## 🔗 Live Demo
+### `npm start`
 
-**[View Live Demo](https://your-demo-link.netlify.app)**
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## 🛠️ Tech Stack
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- **Frontend:** React 18, Hooks, Context API
-- **Styling:** Tailwind CSS, Custom Components
-- **Charts:** Recharts (React + D3.js)
-- **Icons:** Lucide React
-- **Build:** Create React App, Webpack
-- **Deployment:** Netlify/Vercel
+### `npm test`
 
-## 🚀 Quick Start
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Prerequisites
-- Node.js 16+ and npm
+### `npm run build`
 
-### Installation
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/mdmkwijesingha-tech/saas-analytics-dashboard.git
-   cd saas-analytics-dashboard
-   ```
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-3. **Start development server**
-   ```bash
-   npm start
-   ```
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-4. **Open in browser**
-   ```
-   http://localhost:3000
-   ```
+### `npm run eject`
 
-## 📦 Build for Production
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-```bash
-npm run build
-```
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## 🚀 Deployment
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-### Deploy to Netlify
-1. Build the project: `npm run build`
-2. Deploy: `npm run deploy`
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-### Deploy to Vercel
-1. Install Vercel CLI: `npm i -g vercel`
-2. Deploy: `vercel --prod`
+## Learn More
 
-## 👨‍💻 Author
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-**Mabulage Don Madhura Kusal Wijesinghe**
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/madura-kusal-wijesingha)
-- GitHub: [github.com/yourusername](https://github.com/mdmkwijesingha-tech)
+To learn React, check out the [React documentation](https://reactjs.org/).
 
----
+### Code Splitting
 
-⭐ **Star this repository if it helped you!**
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
