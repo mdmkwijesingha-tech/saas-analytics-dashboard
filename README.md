@@ -2,8 +2,6 @@
 
 A professional, modern analytics dashboard built with React for SaaS businesses. Features real-time data visualization, customer management, and comprehensive analytics tools.
 
-![Dashboard Preview](./screenshots/dashboard-overview.png)
-
 ## ✨ Features
 
 - **📊 Real-time Analytics** - Interactive charts and KPI tracking
@@ -25,16 +23,6 @@ A professional, modern analytics dashboard built with React for SaaS businesses.
 - **Build:** Create React App, Webpack
 - **Deployment:** Netlify/Vercel
 
-## 📱 Screenshots
-
-| Dashboard Overview | Customer Management |
-|:--:|:--:|
-| ![Dashboard](./screenshots/dashboard-overview.png) | ![Customers](./screenshots/customer-management.png) |
-
-| Analytics View | Mobile Responsive |
-|:--:|:--:|
-| ![Analytics](./screenshots/analytics-view.png) | ![Mobile](./screenshots/mobile-responsive.png) |
-
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -43,5 +31,48 @@ A professional, modern analytics dashboard built with React for SaaS businesses.
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/saas-analytics-dashboard.git
+   git clone https://github.com/mdmkwijesingha-tech/saas-analytics-dashboard.git
    cd saas-analytics-dashboard
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start development server**
+   ```bash
+   npm start
+   ```
+
+4. **Open in browser**
+   ```
+   http://localhost:3000
+   ```
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+
+## 🚀 Deployment
+
+### Deploy to Netlify
+1. Build the project: `npm run build`
+2. Deploy: `npm run deploy`
+
+### Deploy to Vercel
+1. Install Vercel CLI: `npm i -g vercel`
+2. Deploy: `vercel --prod`
+
+## 👨‍💻 Author
+
+**Mabulage Don Madhura Kusal Wijesinghe**
+- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/madura-kusal-wijesingha)
+- GitHub: [github.com/yourusername](https://github.com/mdmkwijesingha-tech)
+
+---
+
+⭐ **Star this repository if it helped you!**
